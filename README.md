@@ -70,4 +70,5 @@ Web-scraping tool for structured data extraction and processing.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/praise-daniels-61441419a/) · [Email](mailto:agapepraiz@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />](https://www.linkedin.com/in/praise-daniels-61441419a/)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="32" height="32" />](mailto:agapepraiz@gmail.com)
