@@ -15,26 +15,29 @@ I build clean, interactive, and scalable web and mobile applications, from polis
 ## Tech Stack
 
 ### Frontend
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />](https://react.dev)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />](https://nextjs.org)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />](https://www.typescriptlang.org)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />](https://tailwindcss.com)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" />](https://threejs.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36" />](https://react.dev)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36" />](https://nextjs.org)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />](https://www.typescriptlang.org)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36" />](https://tailwindcss.com)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="36" height="36" />](https://threejs.org)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" alt="GSAP" width="36" height="36" />](https://gsap.com)
 
 ### Backend & Data
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />](https://nodejs.org)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" />](https://www.prisma.io)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />](https://www.postgresql.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />](https://nodejs.org)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="36" height="36" />](https://www.prisma.io)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" />](https://www.postgresql.org)
 
 ### Automation & Testing
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40" />](https://playwright.dev)&nbsp;
-[<img src="https://www.apify.com/favicon.ico" alt="Apify" width="40" height="40" />](https://apify.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="36" height="36" />](https://playwright.dev)&nbsp;
+[<img src="https://www.apify.com/favicon.ico" alt="Apify" width="36" height="36" />](https://apify.com)
 
 ### DevOps & Tools
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />](https://www.docker.com)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />](https://aws.amazon.com)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />](https://git-scm.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />](https://www.docker.com)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36" />](https://aws.amazon.com)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36" />](https://git-scm.com)
+
+
 
 ---
 
