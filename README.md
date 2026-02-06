@@ -21,7 +21,7 @@ I build clean, interactive, and scalable web and mobile applications, from polis
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36" />](https://tailwindcss.com)&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="36" height="36" />](https://threejs.org)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" alt="GSAP" width="36" height="36" />](https://gsap.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="36" height="36" />](https://gsap.com)
 
 ### Backend & Data
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />](https://nodejs.org)&nbsp;
@@ -36,7 +36,6 @@ I build clean, interactive, and scalable web and mobile applications, from polis
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />](https://www.docker.com)&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36" />](https://aws.amazon.com)&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36" />](https://git-scm.com)
-
 
 
 ---
