@@ -1,12 +1,14 @@
-# Praise Daniels
+<h1>Hi 👋, I'm Praise</h1>
 
-**Product-Minded Engineer — Frontend & Full-Stack**
+<h2>A Product-Minded Full-Stack Engineer</h2>
 
-I build clean, interactive, and scalable web applications — from polished UIs to reliable backend systems.
+I build clean, interactive, and scalable web and mobile applications, from polished UIs to reliable backend systems.
 
-- Based in Lagos, Nigeria
-- Currently building full-stack apps and interactive frontend experiences
-- Open to Frontend, Full-Stack, and Product Engineer roles
+- 🌍 I'm based in Lagos, Nigeria.
+- ✉️ You can contact me via [email](mailto:agapepraiz@gmail.com).
+- 🔭 I'm currently building full-stack apps and interactive frontend experiences.
+- 🧠 I'm deepening my expertise in React, Next.js, TypeScript, and backend architecture.
+- 💼 I'm open to Frontend, Full-Stack, and Product Engineer roles or collaboration on well-thought-out projects.
 
 ---
 
