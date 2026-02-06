@@ -58,9 +58,13 @@ Web-scraping tool for structured data extraction and processing.
 
 ## GitHub Stats
 
-![Praise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praise1214&show_icons=true&hide_border=true&theme=default)
+<b>My GitHub Stats</b>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praise1214&hide_border=true&theme=default)
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=Praise1214&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Praise1214&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=Praise1214&layout=compact&card_width=400&hide_title=true&theme=dark&langs_count=10&hide_border=true"></a>&nbsp;
+</div>
 
 ---
 
