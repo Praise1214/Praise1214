@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Product-Minded Engineer | Frontend & Full-Stack Developer
 
-I build clean, interactive, and scalable web applications — from polished UIs to reliable backend logic.
+I build clean, interactive, and scalable web and mobile applications from polished UIs to reliable backend logic.
 
 - 📍 Based in Lagos, Nigeria
 - 🔭 Currently building full-stack apps and interactive frontend experiences
@@ -35,7 +35,7 @@ I build clean, interactive, and scalable web applications — from polished UIs 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white" />
-te" />
+
 
 ---
 
@@ -58,7 +58,7 @@ A web-scraping tool for structured data extraction and processing.
 
 ## 📊 GitHub Stats
 
-![Praise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praise1214&show_icons=true&hide_border=true)
+![Praise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praise1214&show_icons=true&hide_border=true&cache_seconds=86400&theme=default)
 
 ---
 
