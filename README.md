@@ -1,67 +1,65 @@
-# 👋 Hi, I’m Praise
+# Praise Daniels
 
-## 👨‍💻 Product-Minded Engineer | Frontend & Full-Stack Developer
+**Product-Minded Engineer — Frontend & Full-Stack**
 
-I build clean, interactive, and scalable web and mobile applications from polished UIs to reliable backend logic.
+I build clean, interactive, and scalable web applications — from polished UIs to reliable backend systems.
 
-- 📍 Based in Lagos, Nigeria
-- 🔭 Currently building full-stack apps and interactive frontend experiences
-- 💼 Targeting Frontend, Full-Stack, and Product Engineer roles
-- 💬 Feel free to reach out!
-
----
-
-## 🧠 Skills
-
-### 🛠 Technologies I work with
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Apify-FF6F00?style=flat&logo=apify&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Requestly-EF4C00?style=flat&logo=requestly&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white" />
-
+- Based in Lagos, Nigeria
+- Currently building full-stack apps and interactive frontend experiences
+- Open to Frontend, Full-Stack, and Product Engineer roles
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 💼 **Job Posting Website**
-A full-stack job board with authentication, structured data, and smooth UI.  
-🔗 https://github.com/Praise1214/JOB_POSTING_WEBSITE
+### Frontend
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />](https://react.dev)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />](https://nextjs.org)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />](https://www.typescriptlang.org)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />](https://tailwindcss.com)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" />](https://threejs.org)
 
-### 🌐 **Portfolio Website**
-A performance-focused personal portfolio built with animations and interaction.  
-🔗 https://github.com/Praise1214/Portfolio-website  
-🌍 https://praise-website.vercel.app/
+### Backend & Data
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />](https://nodejs.org)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" />](https://www.prisma.io)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />](https://www.postgresql.org)
 
-### 🕸 **Apify Opportunities Scraper**
-A web-scraping tool for structured data extraction and processing.  
-🔗 https://github.com/Praise1214/apify-opportunities-scraper
+### Automation & Testing
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40" />](https://playwright.dev)&nbsp;
+[<img src="https://www.apify.com/favicon.ico" alt="Apify" width="40" height="40" />](https://apify.com)
+
+### DevOps & Tools
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />](https://www.docker.com)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />](https://aws.amazon.com)&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />](https://git-scm.com)
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-![Praise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praise1214&show_icons=true&hide_border=true&cache_seconds=86400&theme=default)
+### Job Posting Website
+Full-stack job board with authentication, structured data, and smooth UI.
+[GitHub](https://github.com/Praise1214/JOB_POSTING_WEBSITE)
+
+### Portfolio Website
+Performance-focused personal portfolio built with animations and interaction.
+[GitHub](https://github.com/Praise1214/Portfolio-website) · [Live](https://praise-website.vercel.app/)
+
+### Apify Opportunities Scraper
+Web-scraping tool for structured data extraction and processing.
+[GitHub](https://github.com/Praise1214/apify-opportunities-scraper)
 
 ---
 
-## 📫 Connect with Me
+## GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/in/praise-daniels-61441419a/) • [Email](mailto:agapepraiz@gmail.com)
+![Praise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praise1214&show_icons=true&hide_border=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praise1214&hide_border=true&theme=default)
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/praise-daniels-61441419a/) · [Email](mailto:agapepraiz@gmail.com)
